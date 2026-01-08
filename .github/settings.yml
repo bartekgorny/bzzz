@@ -3,7 +3,7 @@
 # - https://docs.github.com/en/rest/reference/repos#update-a-repository
 
 repository :
-  description                       : It waits for something
+  description                       : It waits for something else
   default_branch                    : main
 
   private                           : false
